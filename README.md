@@ -27,7 +27,7 @@ My work spans the complete AI stack:
 ┌─────────────────────────────────────────────────────────────┐
 │                        AI / ML                              │
 │                                                             │
-│  Machine Learning   →   Deep Learning   →   GenAI          │
+│  Machine Learning   →   Deep Learning   →   GenAI           │
 │  Feature Engineering    CNN/RNN/LSTM       RAG              │
 │  Model Evaluation       Transformers       Agents           │
 │  Experimentation         Transfer Learning  Vector Search   │
@@ -39,9 +39,9 @@ My work spans the complete AI stack:
 │  Redis             MongoDB      WebSockets     Docker       │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
-│                       SYSTEMS                              │
+│                       SYSTEMS                               │
 │                                                             │
-│  Real-time Data    TCP/UDP      PMU Streaming   Pipelines  │
+│  Real-time Data    TCP/UDP      PMU Streaming   Pipelines   │
 │  Signal Processing  Concurrency  Distributed Systems        │
 └─────────────────────────────────────────────────────────────┘
 ```
