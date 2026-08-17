@@ -245,7 +245,7 @@ Areas I'm currently exploring:
 
 # Problem Solving
 
-### 550+ LeetCode Problems
+### 800+ LeetCode Problems
 
 I regularly practice **Data Structures & Algorithms** and competitive programming.
 
