@@ -1,194 +1,336 @@
-# Hi, I'm Atul Pathak 👋
+# Atul Pathak
 
-### Software Engineer | ML & AI Enthusiast | Problem Solver
+### ML Engineer • AI/LLM Systems • Deep Learning • Backend Engineering
 
-I'm a **Pre-Final Year B.Tech student at MNNIT Allahabad**, passionate about building scalable software, solving challenging problems, and exploring **Machine Learning, AI, Backend Engineering, and System Design**.
+<p align="left">
+  <a href="https://github.com/atulpathak03">
+    <img src="https://komarev.com/ghpvc/?username=atulpathak03&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/atulpathak03?tab=followers">
+    <img src="https://img.shields.io/github/followers/atulpathak03?label=Followers&style=flat" />
+  </a>
+</p>
 
-* 🎓 B.Tech @ **MNNIT Allahabad** | Expected Graduation: **2027**
-* 💻 Strong interest in **Software Development & Machine Learning**
-* 🧠 Solved **550+ LeetCode problems**
-* 🚀 Currently strengthening **Backend Engineering, System Design & ML**
-* 🔭 Building projects with **MERN, C++, Python and ML**
-* 🎯 Aspiring to work as a **Software Engineer / ML Engineer**
-* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/atul-pathak03/)
+> I build **machine learning systems, LLM applications, and backend services** — from model development and experimentation to APIs, retrieval pipelines, real-time data processing, and deployment.
 
----
+I'm a **B.Tech student at MNNIT Allahabad** with a strong focus on **Machine Learning, Deep Learning, Generative AI and Software Engineering**.
 
-## 🛠️ Tech Stack
+My work spans the complete AI stack:
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-
-### Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### AI / ML
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+**Data → Features → Models → LLMs → RAG/Agents → APIs → Deployment**
 
 ---
 
-## 💻 What I Work On
+## What I Do
 
 ```text
-Software Engineering
-├── Data Structures & Algorithms
-├── Backend Development
-├── REST APIs
-├── Database Design
-├── Distributed Systems
-└── System Design
-
-Machine Learning
-├── Supervised Learning
-├── Deep Learning
-├── NLP
-├── Computer Vision
-└── Model Development & Evaluation
+┌─────────────────────────────────────────────────────────────┐
+│                        AI / ML                              │
+│                                                             │
+│  Machine Learning   →   Deep Learning   →   GenAI          │
+│  Feature Engineering    CNN/RNN/LSTM       RAG              │
+│  Model Evaluation       Transformers       Agents           │
+│  Experimentation         Transfer Learning  Vector Search   │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                    ENGINEERING                              │
+│                                                             │
+│  Python / C++      FastAPI      REST APIs      PostgreSQL   │
+│  Redis             MongoDB      WebSockets     Docker       │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                       SYSTEMS                              │
+│                                                             │
+│  Real-time Data    TCP/UDP      PMU Streaming   Pipelines  │
+│  Signal Processing  Concurrency  Distributed Systems        │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Featured Projects
+# Featured Work
 
-### 🤖 AI Interview Agent
+## Research & Machine Learning
 
-An AI-powered interview platform designed to simulate technical interviews and provide an interactive interview experience.
+### Power Grid Forecasting & Real-Time PMU Analytics
 
-**Tech:** MERN Stack • AI • REST APIs
+**Research Intern — MNNIT Allahabad**
 
----
+Worked on real-time power-system analytics using synchronized **PMU data and deep learning**.
 
-### 💬 Real-Time Chat Application
+* Simulated IEEE power grids using **MATPOWER**
+* Generated synchronized PMU datasets across load and fault scenarios
+* Developed a **BiLSTM** model for active/reactive power forecasting
+* Built PMU frame decoding and timestamp synchronization
+* Implemented **CRC-CCITT** validation and SADF-based parsing
+* Implemented **IEEE C37.118.2-2011** over TCP/UDP
+* Built an online signal-processing pipeline for voltage, current, frequency, ROCOF and power features
 
-A real-time communication platform with user authentication and instant messaging.
-
-**Tech:** MERN • WebSockets • Redis • Docker
-
----
-
-### 🔐 Parallel File Encryptor
-
-A C++ project focused on accelerating file encryption through parallel processing and multithreading.
-
-**Tech:** C++ • Multithreading • Concurrency
+**Focus:** `Time Series` `BiLSTM` `PMU` `Signal Processing` `TCP/UDP` `Real-Time Systems`
 
 ---
 
-### 🌐 Multithreaded Proxy Web Server
+# Generative AI
 
-A low-level networking project implementing a multithreaded proxy server using socket programming.
+## ResearchMind AI
 
-**Tech:** C • Socket Programming • Pthreads • Semaphores
+> Autonomous multi-agent AI research and report-generation platform.
+
+**Architecture**
+
+```text
+User Query
+    │
+    ▼
+Research Planner
+    │
+    ├── Web Search
+    │
+    ├── Web Scraping
+    │
+    ├── Source Extraction
+    │
+    ▼
+Research Synthesis
+    │
+    ▼
+LLM-as-a-Judge
+    │
+    ▼
+Final Report
+```
+
+**Built with**
+
+`Python` `LangChain` `OpenAI API` `Tavily` `BeautifulSoup4` `Streamlit` `REST APIs`
+
+Key engineering work:
+
+* Designed a **4-stage multi-agent architecture**
+* Built web ETL pipelines for search, scraping and source extraction
+* Implemented an **LLM-as-a-Judge** evaluation chain
+* Designed a 10-point report-quality evaluation rubric
+* Added real-time execution-state tracking
+* Automated Markdown report generation
 
 ---
 
-### 📊 Machine Learning Projects
+## AI Video & Meeting Assistant
 
-I also work on practical ML projects involving:
+> Multilingual RAG system for transcription, meeting intelligence and contextual Q&A.
 
-* Classification
-* Regression
-* Customer Churn Prediction
-* Image Classification
-* Feature Engineering
-* Model Evaluation
+```text
+Video / Audio
+     │
+     ▼
+ yt-dlp + PyDub
+     │
+     ▼
+ Speech Recognition
+ Whisper + Sarvam AI
+     │
+     ▼
+ Chunking + Embeddings
+     │
+     ▼
+ ChromaDB Vector Store
+     │
+     ▼
+ Hybrid Retrieval
+     │
+     ▼
+ Mistral AI
+     │
+     ▼
+ Contextual Q&A
+```
 
----
-
-## 🧠 Data Structures & Algorithms
-
-I actively practice competitive programming and interview-oriented DSA.
-
-**550+ LeetCode Problems Solved**
-
-Areas I practice:
-
-`Arrays` `Strings` `Binary Search` `Trees` `Graphs` `DP` `Greedy` `Heaps` `Stacks` `Queues` `Sliding Window` `Bit Manipulation` `DSU` `Shortest Path` `Backtracking`
-
----
-
-## 📚 Core Computer Science
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* Database Management Systems
-* Computer Networks
-* System Design
-* Software Engineering
-* SQL
+**Stack:** `Whisper` `Sarvam AI` `LangChain` `ChromaDB` `HuggingFace` `Mistral AI` `Streamlit`
 
 ---
 
-## 📈 GitHub Stats
+# Machine Learning Engineering
+
+## Mental Health Score Predictor
+
+End-to-end ML application taking a model from **raw data → preprocessing → training → API → deployment**.
+
+* Built an end-to-end **Scikit-Learn pipeline**
+* Feature grouping, log transformations and ordinal encoding
+* Optimized a **Random Forest Regressor** using 5-fold cross-validation
+* Achieved **R² = 0.85**
+* Built a production-style **FastAPI** inference service
+* Added Pydantic request validation
+* Deployed inference service to Render
+* Built interactive frontend visualizations
+
+**Stack:** `Python` `Scikit-Learn` `FastAPI` `Pandas` `NumPy` `Pydantic` `Joblib` `JavaScript`
+
+---
+
+# Technical Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+### Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+
+`Regression` `Classification` `Decision Trees` `Random Forest` `SVM` `KNN` `Clustering`
+
+### Deep Learning
+
+`ANN` `CNN` `RNN` `LSTM` `GRU` `BiLSTM` `Transformers` `Transfer Learning`
+
+### GenAI / LLM Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
+
+`RAG` `Agentic AI` `CRAG` `LangGraph` `LangChain` `Embeddings`
+
+`Vector Databases` `Hybrid Search` `LLM Evaluation` `LLM-as-a-Judge`
+
+### Backend & APIs
+
+`FastAPI` `REST APIs` `Node.js` `Express.js` `React.js` `Socket.IO`
+
+### Databases
+
+`PostgreSQL` `MongoDB` `Redis` `ChromaDB`
+
+### Data & Analytics
+
+`Pandas` `NumPy` `Statistical Analysis` `Data Visualization` `Power BI` `Excel`
+
+---
+
+# Engineering Interests
+
+I'm particularly interested in the intersection of:
+
+```text
+Machine Learning
+       +
+Generative AI
+       +
+Backend Engineering
+       +
+Distributed / Real-Time Systems
+```
+
+Areas I'm currently exploring:
+
+* Advanced RAG architectures
+* Agentic AI systems
+* LLM evaluation
+* Multimodal AI
+* Time-series forecasting
+* Deep learning architectures
+* ML model serving
+* Scalable AI backends
+* Distributed systems
+* Real-time data pipelines
+
+---
+
+# Problem Solving
+
+### 550+ LeetCode Problems
+
+I regularly practice **Data Structures & Algorithms** and competitive programming.
+
+```text
+Arrays              Graphs
+Binary Search       Dynamic Programming
+Trees               Greedy
+Heaps               Sliding Window
+Stacks              Backtracking
+DSU                 Shortest Paths
+Bit Manipulation    Recursion
+```
+
+---
+
+# Leadership
+
+### Student Head — Business Strategy & Analytics Club
+
+Led analytics and consulting initiatives for **100+ students**.
+
+### Convener — E-Cell MNNIT
+
+Coordinated entrepreneurship events involving **100+ teams** across five major competitions.
+
+### Web Team Head — Enactus MNNIT
+
+Developed and maintained the organization's website and digital presence.
+
+### Organizer — TEDxMNNIT
+
+Coordinated **80+ volunteers** and managed event logistics.
+
+
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulpathak03&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulpathak03&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atulpathak03&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulpathak03&layout=compact&hide_border=true&theme=transparent" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atulpathak03&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# Currently Building
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atulpathak03&theme=tokyonight&hide_border=true" />
+```python
+class AtulPathak:
+
+    focus = [
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "LLM Systems",
+        "Backend Engineering",
+        "System Design"
+    ]
+
+    philosophy = "Build systems, not just demos."
+
+    goal = "Become an exceptional AI / Software Engineer."
+```
+
+---
+
+# Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/atul-pathak03/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/atulpathak03">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🎯 Currently Learning
-
-* Advanced Backend Engineering
-* System Design
-* Distributed Systems
-* Docker & Containerization
-* Redis & Caching
-* Message Queues
-* Advanced Machine Learning
-* Scalable Web Applications
-
----
-
-## 🤝 Let's Connect
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/atul-pathak03/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/atulpathak03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <b>Machine Learning • Generative AI • Systems • Software Engineering</b>
 </p>
 
----
-
 <p align="center">
-  <i>“Build. Learn. Solve. Repeat.”</i>
+  <i>Turning data and ideas into intelligent systems.</i>
 </p>
