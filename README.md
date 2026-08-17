@@ -259,40 +259,6 @@ DSU                 Shortest Paths
 Bit Manipulation    Recursion
 ```
 
----
-
-# Leadership
-
-### Student Head — Business Strategy & Analytics Club
-
-Led analytics and consulting initiatives for **100+ students**.
-
-### Convener — E-Cell MNNIT
-
-Coordinated entrepreneurship events involving **100+ teams** across five major competitions.
-
-### Web Team Head — Enactus MNNIT
-
-Developed and maintained the organization's website and digital presence.
-
-### Organizer — TEDxMNNIT
-
-Coordinated **80+ volunteers** and managed event logistics.
-
-
-# GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulpathak03&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulpathak03&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atulpathak03&theme=transparent&hide_border=true" />
-</p>
-
----
-
 # Currently Building
 
 ```python
