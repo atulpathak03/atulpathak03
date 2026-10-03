@@ -2,15 +2,6 @@
 
 ### ML Engineer • AI/LLM Systems • Deep Learning • Backend Engineering
 
-<p align="left">
-  <a href="https://github.com/atulpathak03">
-    <img src="https://komarev.com/ghpvc/?username=atulpathak03&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/atulpathak03?tab=followers">
-    <img src="https://img.shields.io/github/followers/atulpathak03?label=Followers&style=flat" />
-  </a>
-</p>
-
 > I build **machine learning systems, LLM applications, and backend services** — from model development and experimentation to APIs, retrieval pipelines, real-time data processing, and deployment.
 
 I'm a **B.Tech student at MNNIT Allahabad** with a strong focus on **Machine Learning, Deep Learning, Generative AI and Software Engineering**.
